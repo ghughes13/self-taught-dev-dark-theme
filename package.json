@@ -1,0 +1,21 @@
+{
+  "name": "self-taught-dev-dark-theme",
+  "displayName": "Self Taught Dev Dark Theme",
+  "description": "Color theme used on selftaught-dev.com",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Self Taught Dev Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Self Taught Dev Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
